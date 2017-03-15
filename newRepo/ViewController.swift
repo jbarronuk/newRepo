@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         
         print ("Hello World")
         print ("Hello Again")
+        print ("Source Control in xCode seems to work really well") 
         // Do any additional setup after loading the view, typically from a nib.
     }
 
